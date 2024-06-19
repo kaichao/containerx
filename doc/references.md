@@ -27,3 +27,8 @@
 - [Using VxWorks 7 Containers With Dockerhub on a Raspberry Pi 4 Model B Board](https://harmonicss.co.uk/vxworks/using-vxworks-7-containers-with-dockerhub-on-a-raspberry-pi-4-model-b-board/)
 - [Deep Dark Fantasy](https://martins3.github.io/)
 - [Linux Lab v1.0 中文手册](https://tinylab.org/pdfs/linux-lab-v1.0-manual-zh.pdf)
+- [Alpine Download](https://dl-cdn.alpinelinux.org/alpine/)
+- [Preparing Machine Images for qemu/KVM](https://www.youtube.com/watch?v=6ccpDwT1qnw)
+- [virtio-fs A shared file system for virtual machines](https://www.youtube.com/watch?v=EIVOzTsGMMI)
+- [virtio-fs – present and future](https://www.youtube.com/watch?v=BhNz6quX6Dw)
+- 
